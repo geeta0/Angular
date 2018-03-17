@@ -1,2 +1,2 @@
 # Angular
-latest project
+This is my latest project of Angular.
